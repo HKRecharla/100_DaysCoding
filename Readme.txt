@@ -21,3 +21,11 @@ Am choosing JAVA ** JAVA
 **** DAY 1 ****
 
 --> Hello Word Program
+
+
+*** Over view of JAVA***
+
+1. platform-independent language
+2. object-oriented programming language
+3. robust language
+4. multithreaded language
