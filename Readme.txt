@@ -98,7 +98,64 @@ double	nill	0	64 bits	nill	up to 16 decimal
  Loops
  For Each
  Switch Case
+ Arrays.sort
+ Array.binarySearch
+ Collections.sort
  
+ 
+ ==> OOps Concept
+ 
+ 1. Classes and Objects 
+ 
+ Class :: 
+ 	Class is a user defined Blue print
+ 		1. Modifiers
+ 		2. Class keyword
+ 		3. class name
+ 		4. super class
+ 		5. interfaces
+ 		6. Body
+ 		
+ Object :: 
+ 		1. State
+ 		2. Behaviour
+ 		3. Identity
+ 		
+
+Object Stored in Memory ==> 
+	--> Dynamically allocated in Heap new()
+	
+	
+ Oops Concepts :: 
+ 	1. Inheritance
+ 	2. Encapsulation
+ 	3. Abstraction
+ 	4. Polymorpysm 
+ 	
+ 
+Inheritance :: 
+	--> inherit features
+	--> super class
+	--> sub class
+	--> Reusability
+	--> extends
+	--> implements
+	
+
+Encapsulation :: 
+	--> Wrapping code and data in single unit
+	--> Setter
+	--> Getter
+		** Advantages
+				--> Data hiding
+				--> Flexibility
+				--> Reusability
+				
+
+	
+
+
+
  
  
 
