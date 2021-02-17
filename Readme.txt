@@ -83,7 +83,26 @@ JVM :: Java Virtual Machine
  2. Array
 
 
-  
+Type	Description	Default	Size	Example	Range
+boolean	true or false	FALSE	1 bit	nill	nill
+byte	twos	0	8 bits	none	-128 to 127
+char	unicode	\u0000	16 bits	nill	0 to 256
+short	nill	0	16 bits	none	-32,768 to 32767
+int	nill	0	32 bits	-2, -1, 0, 1, 2	-2,147 to 2147
+long	nill	0	64 bits	-2L, -1L, 0L, 1L, 2L	-9223 to 9223
+float	nill	0	32 bits	nill	Upto 7 decimal
+double	nill	0	64 bits	nill	up to 16 decimal
+
+ Variables
+ Final Variables
+ Loops
+ For Each
+ Switch Case
+ 
+ 
+ 
+
+ 
  
  
  
