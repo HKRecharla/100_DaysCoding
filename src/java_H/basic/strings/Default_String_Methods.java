@@ -17,10 +17,6 @@ public class Default_String_Methods {
 		//concatinate
 		String con = s.concat("e");
 		System.out.println(con);
-		
-		
-		
-		
 	}
 
 }
