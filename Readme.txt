@@ -151,9 +151,18 @@ Encapsulation ::
 				--> Flexibility
 				--> Reusability
 				
-
+Abstraction :: 
+	--> Knowing functionality but not implementation
+	
+	
+Polymorphism :: 
+	--> Over riding
+	--> over loading
+	--> Run time
+	--> compile time
 	
 
+************ Day 2 ****************
 
 
  
